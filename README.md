@@ -3,6 +3,7 @@
 
 ## What is inside?
 
+* BCB546_python_assignment.html: HTML answer script with all the codes
 * BCB546_python_assignment.ipynb: Jupyter notebook for all the codes
 * aa_seq.fasta: Generated amino acid sequence file
 * bears_cytb.fasta: Input DNA sequence file
